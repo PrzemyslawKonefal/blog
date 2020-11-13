@@ -8,7 +8,7 @@ excerpt: Planuje prowadzić kanał na Youtube i budować wokół niego aktywnie 
 
 Planuje prowadzić kanał na [Youtube](https://www.youtube.com/channel/UC950DlGpMROx7DdpceFYmiw) i budować wokół niego aktywnie angażującą się społeczność. Przygotowując materiały, muszę zawęzić grono odbiorców, dla których przekaz będzie zrozumiały, bo próbując dotrzeć do wszystkich - nie trafię do nikogo.
 Pragnę Wam przedstawić sposób myślenia modelowego członka tej grupy. Osoby, z którą chciałbym pracować, spędzać czas i wymieniać się przemyśleniami.
-Jeśli czujecie, że ten schemat mentalności jest zbliżony do waszego, to będę zaszczycony, jeśli zechcecie dołączyć do tej społeczności i zasubskrybujecie [kanał](https://www.youtube.com/channel/UC950DlGpMROx7DdpceFYmiw), by wiedzieć, kiedy pojawi się pierwszy i każdy kolejny film.
+Jeśli czujesz, że ten schemat mentalności jest zbliżony do twojego, to będę zaszczycony, jeśli zechcesz dołączyć do tej społeczności i zasubskrybujesz [kanał](https://www.youtube.com/channel/UC950DlGpMROx7DdpceFYmiw), by wiedzieć, kiedy pojawi się pierwszy i każdy kolejny film.
 
 ## Oto mentalny profil docelowego odbiorcy:
 Chcę być kowalem własnego losu. Nie chcę narzekać i zrzucać odpowiedzialności za moje porażki i sukcesy na czynniki losowe lub na otaczające mnie środowisko, ale wiem, że to arcytrudne podejście. Świat, w którym żyjemy, sprzyja prowadzeniu pasywnego trybu życia, bo tak sami go zaprojektowaliśmy. Uzależnienia od __mediów społecznościowych, telewizji, gier komputerowych, pornografii, cukru, alkoholu, papierosów__ i innych używek stały się czymś normalnym, społecznie akceptowalnym. Konsumpcjonizm to religia XXI wieku, którą aktywnie praktykuje miliardy ludzi na świecie.
