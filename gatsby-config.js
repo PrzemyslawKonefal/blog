@@ -1,33 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Przemysław Konefał`,
+    name: `Przemysław Konefał`,
+    siteUrl: `https://przemyslaw-konefal.pl`,
+    description: `Czas jest ograniczony. Wykorzystuj go mądrze`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Blog osobisty`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/pkonefal/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `facebook`,
+        url: `https://www.facebook.com/przemyslawkonefal1`,
       },
     ],
   },
@@ -38,7 +26,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
           // contentful: true,
@@ -61,6 +49,6 @@ module.exports = {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
       },
-    },
+    }
   ],
 };
