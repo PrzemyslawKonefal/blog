@@ -332,7 +332,7 @@ const MDXBody = styled.div`
   ${PrismCSS}
   ${ImageCSS}
   
-  h2 {
+  h2, h3 {
     @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400&display=swap');
 
         font-family: 'Merriweather Sans', sans-serif !important;

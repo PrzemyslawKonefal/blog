@@ -27,6 +27,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: false,
+        mailchimp: true,
         sources: {
           local: true,
           // contentful: true,
@@ -48,6 +49,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://przemyslaw-konefal.us7.list-manage.com/subscribe/post?u=15ce2fbea9c4394d959edc747&amp;id=074240b497',
       },
     }
   ],
