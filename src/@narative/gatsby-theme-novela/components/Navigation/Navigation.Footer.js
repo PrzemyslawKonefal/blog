@@ -39,11 +39,13 @@ const siteQuery = graphql`
   }
 `;
 
+const globalWindow = typeof window !== 'undefined' && window
+
 const CookiesInfoBlock = () => {
   const [colorMode]  = useColorMode();
-  const [termsConfirmed, setTermsConfirmed] = useState(localStorage.getItem("terms_confirmed") === "true")
+  const [termsConfirmed, setTermsConfirmed] = useState(globalWindow ? globalWindow.localStorage.getItem("terms_confirmed") === "true" : false)
   const onTermsConfirm = () => {
-    localStorage.setItem("terms_confirmed", "true");
+    if(globalWindow) globalWindow.localStorage.setItem("terms_confirmed", "true");
     setTermsConfirmed(true)
   }
   const policyPageUrl = `${window.location.origin}/polityka-prywatnosci`
