@@ -3,16 +3,23 @@ import { Disqus } from 'gatsby-plugin-disqus'
 import styled from "@emotion/styled";
 import mediaqueries from "@narative/gatsby-theme-novela/src/styles/media";
 
-const globalWindow = typeof window !== 'undefined' && window
+const globalDocument = typeof document !== 'undefined' && document
 
 const Comments = () => {
     const changeReactionsText = () => {
-        setTimeout(() => {
-            if(globalWindow) {
-                const el = globalWindow.querySelector('#reactions .text-bold')
-                el.innerHTML = 'Czy podobał Ci się ten artykuł?'
+        let found = false;
+        const x = setInterval(() => {
+            if(globalDocument) {
+                const el = globalDocument.querySelector('#reactions .text-bold')
+                if (el) {
+                    el.innerHTML = 'Czy podobał Ci się ten artykuł?'
+                    found = true;
+                }
+
             }
-        }, 2000)
+            if (found) clearInterval(x)
+        }, 4000)
+
     }
 
     useEffect(changeReactionsText, [])
