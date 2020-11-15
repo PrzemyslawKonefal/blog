@@ -47,7 +47,7 @@ const DarkModeToggle = () => {
   );
 };
 
-const NavigationHeader = () => {
+const NavigationHeader = ({ hideThemeTrigger }) => {
   const [showBackArrow, setShowBackArrow] = useState(false);
   const [previousPath, setPreviousPath] = useState("/");
   const { sitePlugin } = useStaticQuery(siteQuery);
@@ -100,7 +100,7 @@ const NavigationHeader = () => {
             >
               <Icons.Ex fill={fill} />
             </button>
-          ) : (
+          ) :  !hideThemeTrigger &&(
               <DarkModeToggle />
           )}
         </NavControls>

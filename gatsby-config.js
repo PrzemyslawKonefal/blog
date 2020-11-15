@@ -62,6 +62,13 @@ module.exports = {
       options: {
         shortname: 'przemyslaw-konefal'
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "G-550842YT0N",
+        cookieDomain: "przemyslaw-konefal.com/ciasteczka",
+      },
+    },
   ],
 };
