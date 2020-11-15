@@ -48,7 +48,7 @@ const CookiesInfoBlock = () => {
     if(globalWindow) globalWindow.localStorage.setItem("terms_confirmed", "true");
     setTermsConfirmed(true)
   }
-  const policyPageUrl = `${window.location.origin}/polityka-prywatnosci`
+  const policyPageUrl = globalWindow && `${globalWindow.location.origin}/polityka-prywatnosci`
   const fill = colorMode === "dark" ? "#000" : "#fff";
 
   return <CookieBlock hidden={termsConfirmed}>
