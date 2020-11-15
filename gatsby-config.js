@@ -56,6 +56,12 @@ module.exports = {
       options: {
         endpoint: 'https://przemyslaw-konefal.us7.list-manage.com/subscribe/post?u=15ce2fbea9c4394d959edc747&amp;id=074240b497',
       },
+    },
+    {
+      resolve: 'gatsby-plugin-disqus',
+      options: {
+        shortname: 'przemyslaw-konefal'
+      }
     }
   ],
 };
