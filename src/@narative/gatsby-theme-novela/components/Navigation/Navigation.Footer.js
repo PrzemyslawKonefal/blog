@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import styled from "@emotion/styled";
 import { graphql, useStaticQuery } from "gatsby";
 
@@ -43,6 +43,7 @@ const globalWindow = typeof window !== 'undefined' && window
 
 const CookiesInfoBlock = () => {
   const [colorMode]  = useColorMode();
+  const [showCookiesInfo, setShowCookiesInfo] = useState(false);
   const [termsConfirmed, setTermsConfirmed] = useState(globalWindow ? globalWindow.localStorage.getItem("terms_confirmed") === "true" : false)
   const onTermsConfirm = () => {
     if(globalWindow) globalWindow.localStorage.setItem("terms_confirmed", "true");
@@ -51,7 +52,15 @@ const CookiesInfoBlock = () => {
   const policyPageUrl = globalWindow && `${globalWindow.location.origin}/polityka-prywatnosci`
   const fill = colorMode === "dark" ? "#000" : "#fff";
 
-  return <CookieBlock hidden={termsConfirmed}>
+  const initCookieInfoShow = () => {
+    setTimeout(() => {
+      setShowCookiesInfo(true)
+    }, 10000)
+  }
+
+  useEffect(initCookieInfoShow, [])
+
+  return <CookieBlock hidden={!showCookiesInfo || termsConfirmed}>
     <CookieText>
       Ta strona korzysta z ciasteczek, aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie.
     </CookieText>
