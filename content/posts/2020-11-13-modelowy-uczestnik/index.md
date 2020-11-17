@@ -7,10 +7,10 @@ excerpt: Planuje prowadzić kanał na Youtube i budować wokół niego aktywnie 
 ---
 
 Planuje prowadzić kanał na [Youtube](https://www.youtube.com/channel/UC950DlGpMROx7DdpceFYmiw) i budować wokół niego aktywnie angażującą się społeczność. Przygotowując materiały, muszę zawęzić grono odbiorców, dla których przekaz będzie zrozumiały, bo próbując dotrzeć do wszystkich - nie trafię do nikogo.
-Pragnę Wam przedstawić sposób myślenia modelowego członka tej grupy. Osoby, z którą chciałbym pracować, spędzać czas i wymieniać się przemyśleniami.
+Pragnę Wam przedstawić mentalny profil modelowego członka tej grupy. Osoby, z którą chciałbym pracować, spędzać czas i wymieniać się przemyśleniami.
 Jeśli czujesz, że ten schemat mentalności jest zbliżony do twojego, to będę zaszczycony, jeśli zechcesz dołączyć do tej społeczności i zasubskrybujesz [kanał](https://www.youtube.com/channel/UC950DlGpMROx7DdpceFYmiw), by wiedzieć, kiedy pojawi się pierwszy i każdy kolejny film.
 
-## Oto mentalny profil docelowego odbiorcy:
+## Oto sposób myślenia docelowego odbiorcy:
 Nie chcę zrzucać odpowiedzialności za moje porażki i sukcesy na czynniki, których nie mogę kontrolować. Ale wiem, że to arcytrudne podejście. Świat, w którym żyjemy, sprzyja prowadzeniu pasywnego trybu życia, bo tak sami go zaprojektowaliśmy. Uzależnienia od __mediów społecznościowych, telewizji, gier komputerowych, pornografii, cukru, alkoholu, papierosów__ i innych używek stały się czymś normalnym, społecznie akceptowalnym. Konsumpcjonizm to religia XXI wieku, którą aktywnie praktykuje miliardy ludzi na świecie.
 Walka z nią na poziomie indywidualnym przypomina pojedynek Dawida z Goliatem.
 
@@ -26,7 +26,7 @@ W tym wypadku walka z Goliatem różni się od tej biblijnej. Jest długa i wyma
 
 __I najważniejsze__ — Jestem świadomy, że cała ta wiedza jest nic niewarta, jeśli nie zostanie wcielona w życie. Tylko praktyka czyni mistrza, a bez niej uczenie się jest niczym więcej jak kolejną formą [prokrastynacji](https://pl.wikipedia.org/wiki/Prokrastynacja#:~:text=Prokrastynacja%20lub%20zwlekanie%2C%20czy%20te%C5%BC,si%C4%99%20w%20r%C3%B3%C5%BCnych%20dziedzinach%20%C5%BCycia.).
 
-## Dobra dobra, ale kim jestem, żeby wypowiadać się w tych kwestiach?
+## Dobra dobra, ale kim jestem, żeby wypowiadać się na temat _rozwoju_?
 
 Nikim. Daleko mi do bycia internetowym guru czy _coachem_.
 Nie zamierzam podawać Ci na tacy gotowych, prostych i ładnie brzmiących haseł, które od ręki odmienią twoje życie.
