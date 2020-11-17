@@ -15,7 +15,7 @@ const ArticleHero = ({ article, authors }) => {
     article.hero &&
     Object.keys(article.hero.full).length !== 0 &&
     article.hero.full.constructor === Object;
-  console.log(article.hero)
+
   return (
     <Hero>
       <Header>
